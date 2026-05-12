@@ -1,0 +1,7 @@
+Ali,5
+Vali,4
+Ravshan,5
+Sami,3
+Lola,5
+ravshan,5
+ravshan,5
